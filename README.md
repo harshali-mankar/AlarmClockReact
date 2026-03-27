@@ -37,7 +37,7 @@ To get a local copy up and running, follow these simple steps:
    npm install
    ```
 
-## 🚀 Usage
+##  Usage
 
 Run the development server:
 
